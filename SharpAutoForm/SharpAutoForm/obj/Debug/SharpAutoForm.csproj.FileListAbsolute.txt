@@ -1,0 +1,14 @@
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\bin\Debug\SharpAutoForm.exe.config
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\bin\Debug\SharpAutoForm.exe
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\bin\Debug\SharpAutoForm.pdb
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\obj\Debug\SharpAutoForm.csprojAssemblyReference.cache
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\obj\Debug\SharpAutoForm.Properties.Resources.resources
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\obj\Debug\SharpAutoForm.SharpAutoForm.resources
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\obj\Debug\SharpAutoForm.csproj.GenerateResource.cache
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\obj\Debug\SharpAutoForm.exe
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\obj\Debug\SharpAutoForm.pdb
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\bin\Debug\SharpAutoForm.exe.manifest
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\bin\Debug\SharpAutoForm.application
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\obj\Debug\SharpAutoForm.exe.manifest
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\obj\Debug\SharpAutoForm.application
+C:\Users\parth\source\repos\SharpAutoForm\SharpAutoForm\obj\Debug\SharpAutoForm.csproj.CoreCompileInputs.cache
